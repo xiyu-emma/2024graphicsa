@@ -1,0 +1,27 @@
+newmtl handB:body_lowSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BaseColor.jpg
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 98.00
+newmtl handB:lambert2SG
+illum 4
+Kd 0.45 0.26 0.06
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl handB:lambert3SG
+illum 4
+Kd 0.46 0.46 0.48
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl handB:lambert4SG
+illum 4
+Kd 0.07 0.07 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
